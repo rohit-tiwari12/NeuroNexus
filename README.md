@@ -37,13 +37,7 @@ This project uses a **Random Forest Classifier** to predict the survival of pass
   - `Embarked` – Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 
-## 📸 Screenshot
 
-
-![Screenshot 2025-05-02 200848](https://github.com/user-attachments/assets/f09981ed-69e5-449d-b3be-100052971b5b)
-
-
-![Screenshot 2025-05-02 201103](https://github.com/user-attachments/assets/96768e1e-c7de-4a73-b93f-68daae66de8e)
 
 ---
 
@@ -64,5 +58,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## ✨ Author
 
-Created by [Asmi_Dagar](https://github.com/asmidagar)
+Created by [Rohit Tiwari](https://github.com/rohit-tiwari12)
 
